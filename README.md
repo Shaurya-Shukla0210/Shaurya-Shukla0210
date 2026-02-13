@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi 👋, I'm Shaurya Shukla
 
-<!--
-**Shaurya-Shukla0210/Shaurya-Shukla0210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student  
+💻 Passionate about Programming & Problem Solving  
+🚀 Currently learning Data Structures & Algorithms  
+🌱 Exploring Web Development  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- C++
+- Java
+- Python
+
+---
+
+## 🎯 Goals for 2026
+- Solve DSA problems
+- Build strong development projects
+- Contribute to Open Source
+
+---
+
+
